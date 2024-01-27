@@ -1,0 +1,13 @@
+db.sqlite3
+__pycache__/
+.env
+virtualenv
+venv
+media
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
+# random files
+requirements_tree.txt
+static
